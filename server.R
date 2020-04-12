@@ -10,10 +10,10 @@ library(lubridate)
 library(tidyverse)
 library(digest)
 # functions that read API's
-source("/home/myself/r-studio/verify-parts/bring_element.R")
-source("/home/myself/r-studio/verify-parts/bring_element_hash.R")
-source("/home/myself/r-studio/verify-parts/bring_group_hash.R")
-source("/home/myself/r-studio/verify-parts/bring_unit_hash.R")
+source("/home/myself/r-studio/shiny-merkle-tree/R/bring_element.R")
+source("/home/myself/r-studio/shiny-merkle-tree/R/bring_element_hash.R")
+source("/home/myself/r-studio/shiny-merkle-tree/R/bring_group_hash.R")
+source("/home/myself/r-studio/shiny-merkle-tree/R/bring_unit_hash.R")
 
 # =======================================
 # DATA GATHERING AND PREPROCESSING      #

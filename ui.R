@@ -1,5 +1,3 @@
-#
-## 20190605 - Demonstration of the User Intefrace capable to verify hardware configuration
 # ----------------------------
 # Description: Demonstration of the User Intefrace capable to verify hardware configuration
 # Author: Vladimir Zhbanko
